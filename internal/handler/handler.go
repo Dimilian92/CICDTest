@@ -8,7 +8,7 @@ import (
 type Handler struct {
 }
 
-func NewHandle() *Handler {
+func NewHandler() *Handler {
 	return &Handler{}
 }
 
